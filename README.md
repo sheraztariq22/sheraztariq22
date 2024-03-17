@@ -1,3 +1,4 @@
+![logo](https://github.com/sheraztariq22/sheraztariq22/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Sheraz Tariq</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
