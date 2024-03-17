@@ -1,4 +1,4 @@
-![logo](https://github.com/sheraztariq22/sheraztariq22/blob/main/banner.png)
+![logo](https://github.com/sheraztariq22/sheraztariq22/blob/main/Software%20Engineer%20Sheraz%20Tariq.png)
 <h1 align="center">Hi 👋, I'm Sheraz Tariq</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
