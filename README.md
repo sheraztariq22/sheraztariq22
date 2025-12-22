@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Pursuing **B.S. in Software Engineering** at FAST NUCES (CGPA: 2.41/4.0)
+- 🎓 Pursuing **B.S. in Software Engineering** at FAST NUCES 
 - 💼 **Full Stack Developer at SAGE TECK** – Building enterprise CRM solutions
 - 🚀 **1+ year of professional experience** in Full-stack Development
 - 🤖 Expert in **AI/ML, RAG, LangChain, and Blockchain Technology**
@@ -143,7 +143,6 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
 
 <p align="center">
 <img src="https://img.shields.io/badge/B.S.%20Software%20Engineering-FAST%20NUCES-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-<img src="https://img.shields.io/badge/CGPA-3.5%2F4.0-green?style=for-the-badge&logo=star&logoColor=white" />
 <img src="https://img.shields.io/badge/Graduation-June%202025-orange?style=for-the-badge&logo=calendar&logoColor=white" />
 </p>
 
