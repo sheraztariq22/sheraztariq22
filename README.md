@@ -1,30 +1,236 @@
-![logo](https://github.com/sheraztariq22/sheraztariq22/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Sheraz Tariq</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">Full-stack Developer & AI/ML Engineer | Enterprise CRM Specialist</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheraztariq22&label=Profile%20views&color=0e75b6&style=flat" alt="sheraztariq22" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sherazt17522925" target="blank"><img src="https://img.shields.io/twitter/follow/sherazt17522925?logo=twitter&style=for-the-badge" alt="sherazt17522925" /></a> </p>
-
-- 🌱 I’m currently learning **ReactJS ExpressJS MonogoDB NodeJS**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sherazt17522925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sherazt17522925" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sheraz-tariq-12434a239" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheraz-tariq-12434a239" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sheraz-tariq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sheraz-tariq" height="30" width="40" /></a>
-<a href="https://fb.com/sherazt3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sherazt3" height="30" width="40" /></a>
-<a href="https://instagram.com/sheraztariq22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sheraztariq22" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sheraztariq22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sheraztariq22" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20DevOps%20Builder;Full-stack%20Developer%20at%20SAGE%20TECK;RAG%20%7C%20LangChain%20%7C%20Blockchain%20Expert!" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="/SherazTariqResume.pdf">
+    <img src="https://img.shields.io/badge/📄 Download Resume-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://sheraztariq.com/">
+    <img src="https://img.shields.io/badge/🚀 Visit Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheraztariq22&show_icons=true&locale=en" alt="sheraztariq22" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheraztariq22&" alt="sheraztariq22" /></p>
+### 👨‍💻 About Me
+
+- 🎓 Pursuing **B.S. in Software Engineering** at FAST NUCES (CGPA: 3.5/4.0)
+- 💼 **Full Stack Developer at SAGE TECK** – Building enterprise CRM solutions
+- 🚀 **1+ year of professional experience** in Full-stack Development
+- 🤖 Expert in **AI/ML, RAG, LangChain, and Blockchain Technology**
+- 🛠️ Currently building **AI-powered applications** and **scalable DevOps systems**
+- 💡 Specialized in **Enterprise CRM (SugarCRM, SuiteCRM)** and **CI/CD pipelines**
+
+---
+
+### 🧰 Tech Stack
+
+```yaml
+Languages:                Python, JavaScript, SQL, HTML/CSS
+ML & AI:                  TensorFlow, Keras, Deep Learning, NLP, NumPy
+Generative AI:            LangChain, LlamaIndex, RAG, LLMs, Google Gemini
+Web Development:          Django, MERN Stack, FastAPI, REST APIs, Streamlit
+DevOps & Cloud:           Docker, Kubernetes, Jenkins, AWS, Azure, CI/CD, Git
+Blockchain:               IBM Blockchain, Smart Contracts, Decentralized Systems
+CRM & Enterprise:         SugarCRM, SAGE CRM, Integration Testing, Quality Assurance
+```
+
+---
+
+### 🏆 Featured Projects
+
+<table> 
+<tr> 
+<td width="50%"> 
+<h3>🔗 Community Automation System (Blockchain)</h3> 
+<p> 
+⛓️ <strong>Blockchain + AI-powered community platform</strong><br> 
+🤖 AI-driven community insights and automation<br> 
+🌐 Decentralized infrastructure for transparency<br> 
+👥 Advanced user interaction features<br><br> 
+<a href="https://github.com/sheraztariq/community-blockchain"> 
+<img src="https://img.shields.io/github/stars/sheraztariq/community-blockchain?style=social" /> 
+</a> 
+<a href="https://github.com/sheraztariq/community-blockchain"> 
+<img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" /> 
+</a> 
+</p> 
+</td> 
+<td width="50%"> 
+<h3>💬 AI Icebreaker Bot</h3> 
+<p> 
+🤖 <strong>RAG-based conversational AI assistant</strong><br> 
+🔍 Complete RAG workflow implementation<br> 
+⚡ LangChain & LlamaIndex integration<br> 
+💡 Context-aware natural conversations<br><br> 
+<a href="https://github.com/sheraztariq/ai-icebreaker"> 
+<img src="https://img.shields.io/github/stars/sheraztariq/ai-icebreaker?style=social" /> 
+</a> 
+<a href="https://github.com/sheraztariq/ai-icebreaker"> 
+<img src="https://img.shields.io/badge/View%20Project-4CAF50?style=for-the-badge&logo=python&logoColor=white" /> 
+</a> 
+</p> 
+</td> 
+</tr> 
+<tr> 
+<td width="50%"> 
+<h3>👁️ Face Recognition System (ConvNet)</h3> 
+<p> 
+🧠 <strong>Deep Learning face recognition system</strong><br> 
+🎯 High accuracy detection algorithms<br> 
+⚡ Real-time face detection & recognition<br> 
+🔬 TensorFlow + Keras + Computer Vision<br><br> 
+<a href="https://github.com/sheraztariq/face-recognition"> 
+<img src="https://img.shields.io/github/stars/sheraztariq/face-recognition?style=social" /> 
+</a> 
+<a href="https://github.com/sheraztariq/face-recognition"> 
+<img src="https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
+</a> 
+</p> 
+</td> 
+<td width="50%"> 
+<h3>🍔 Food Recommendation System</h3> 
+<p> 
+🤖 <strong>AI-powered food recommendations</strong><br> 
+🔍 RAG + Vector similarity search<br> 
+✨ Google Gemini API integration<br> 
+🎯 Personalized suggestions system<br><br> 
+<a href="https://github.com/sheraztariq/food-recommender"> 
+<img src="https://img.shields.io/github/stars/sheraztariq/food-recommender?style=social" /> 
+</a> 
+<a href="https://github.com/sheraztariq/food-recommender"> 
+<img src="https://img.shields.io/badge/View%20Project-9C27B0?style=for-the-badge&logo=google&logoColor=white" /> 
+</a> 
+</p> 
+</td> 
+</tr> 
+</table>
+
+<p align="center">
+<a href="https://github.com/sheraztariq22?tab=repositories&q=&type=public&language=&sort=updated">
+<img src="https://img.shields.io/badge/🔍 Explore%20All%20Projects-343541?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+### 💼 Professional Experience
+
+**💻 SAGE TECK - Full Stack Developer** *(March 2024 - Present)*
+* Engineered and maintained **critical features** for enterprise CRM platforms **SugarCRM** and **SuiteCRM**
+* Ensured **robust performance** and **high system availability** for production systems
+* Focused on building **scalable backend logic** throughout the software development lifecycle
+* Modernized **deployment workflows** and improved development efficiency through **CI/CD**
+* Led **quality assurance** and **integration testing** processes
+
+---
+
+### 🏅 Key Achievements
+
+* 🚀 **Successfully led multiple AI and DevOps projects** improving system efficiency
+* 💼 **Built scalable enterprise CRM solutions** ensuring high availability
+* 🤖 **Expert in RAG workflow implementation** with LangChain and LlamaIndex
+* ⚡ **Modernized deployment workflows** with Docker, Kubernetes, and Jenkins
+* 🎓 **Strong academic performance** (CGPA 3.5/4.0) at FAST NUCES
+* 🔧 **Proficient in CI/CD** implementation and integration testing
+
+---
+
+### 🎓 Education
+
+<p align="center">
+<img src="https://img.shields.io/badge/B.S.%20Software%20Engineering-FAST%20NUCES-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-3.5%2F4.0-green?style=for-the-badge&logo=star&logoColor=white" />
+<img src="https://img.shields.io/badge/Graduation-June%202025-orange?style=for-the-badge&logo=calendar&logoColor=white" />
+</p>
+
+---
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:sheraztariq2978@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/sheraztariq22"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/sheraz-tariq-12434a239"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/sherazt17522925"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.leetcode.com/sheraztariq22"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://stackoverflow.com/users/sheraz-tariq"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
+  <a href="https://wa.me/923405437523"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Chat" /></a>
+</p>
+
+---
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- GitHub Stats -->
+      <td style="width: 49%; height: 330px;">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=sheraztariq22&show_icons=true&theme=radical&hide_border=true&rank_icon=github" 
+          alt="Sheraz's GitHub Stats" 
+          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;" />
+      </td>
+      <!-- GitHub Streak -->
+      <td style="width: 49%; height: 330px;">
+        <img 
+          src="https://github-readme-streak-stats.herokuapp.com?user=sheraztariq22&theme=radical&hide_border=true" 
+          alt="Sheraz's GitHub Streak" 
+          style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Top Languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheraztariq22&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sheraztariq22&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  &nbsp;•&nbsp;
+  <a href="https://github.com/sheraztariq22?tab=followers">
+    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/sheraztariq22?color=236ad3&label=Followers&logo=github&logoColor=white&style=flat" />
+  </a>
+</p>
+
+</details>
+
+<details>
+<summary>🔍 Currently Learning & Building</summary>
+
+* 🤖 Advanced RAG Architectures with LangChain and LlamaIndex
+* 🏗️ Scaling Enterprise CRM Systems for High Availability
+* 🔒 Blockchain Smart Contract Development
+* 🌐 Full-Stack AI Applications with Modern Frameworks
+* 📊 MLOps & Production ML System Deployment
+* 🎯 Deep Learning & Computer Vision Applications
+* ⚡ Advanced DevOps with Kubernetes and Jenkins
+
+</details>
+
+<details>
+<summary>💡 Quick Facts</summary>
+
+* 🚀 **1+ year** of professional Full-stack Development experience
+* 🎯 Built **enterprise CRM solutions** with high system availability
+* 🏆 Successfully **led multiple AI and DevOps projects**
+* 🧠 Expert in **RAG, LangChain, and LlamaIndex** implementations
+* ⚡ Specialized in **CI/CD pipelines** and **integration testing**
+* 💼 Strong focus on **scalable backend architecture** and **quality assurance**
+* 🔗 Experience with **Blockchain** and **IBM Blockchain** platforms
+
+</details>
+
+---
+
+<p align="center">
+  <i>"Creating innovative software solutions that solve real-world problems through AI, automation, and modern development practices"</i>
+</p>
