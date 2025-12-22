@@ -36,7 +36,7 @@ Generative AI:            LangChain, LlamaIndex, RAG, LLMs, Google Gemini, LangC
 Web Development:          Django, MERN Stack, FastAPI, REST APIs, Streamlit
 DevOps & Cloud:           Docker, Kubernetes, Jenkins, AWS, Azure, CI/CD, Git
 Blockchain:               IBM Blockchain, Smart Contracts, Decentralized Systems
-CRM & Enterprise:         SugarCRM, SAGE CRM, Integration Testing, Quality Assurance
+CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assurance
 ```
 
 ---
@@ -52,10 +52,10 @@ CRM & Enterprise:         SugarCRM, SAGE CRM, Integration Testing, Quality Assur
 🤖 AI-driven community insights and automation<br> 
 🌐 Decentralized infrastructure for transparency<br> 
 👥 Advanced user interaction features<br><br> 
-<a href="https://github.com/sheraztariq/community-blockchain"> 
+<a href="https://github.com/sheraztariq22/Community-Automation-Blockchain"> 
 <img src="https://img.shields.io/github/stars/sheraztariq/community-blockchain?style=social" /> 
 </a> 
-<a href="https://github.com/sheraztariq/community-blockchain"> 
+<a href="https://github.com/sheraztariq22/Community-Automation-Blockchain"> 
 <img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" /> 
 </a> 
 </p> 
@@ -67,10 +67,10 @@ CRM & Enterprise:         SugarCRM, SAGE CRM, Integration Testing, Quality Assur
 🔍 Complete RAG workflow implementation<br> 
 ⚡ LangChain & LlamaIndex integration<br> 
 💡 Context-aware natural conversations<br><br> 
-<a href="https://github.com/sheraztariq/ai-icebreaker"> 
+<a href="https://github.com/sheraztariq22/Icebreaker-Bot"> 
 <img src="https://img.shields.io/github/stars/sheraztariq/ai-icebreaker?style=social" /> 
 </a> 
-<a href="https://github.com/sheraztariq/ai-icebreaker"> 
+<a href="https://github.com/sheraztariq22/Icebreaker-Bot"> 
 <img src="https://img.shields.io/badge/View%20Project-4CAF50?style=for-the-badge&logo=python&logoColor=white" /> 
 </a> 
 </p> 
@@ -99,10 +99,10 @@ CRM & Enterprise:         SugarCRM, SAGE CRM, Integration Testing, Quality Assur
 🔍 RAG + Vector similarity search<br> 
 ✨ Google Gemini API integration<br> 
 🎯 Personalized suggestions system<br><br> 
-<a href="https://github.com/sheraztariq/food-recommender"> 
+<a href="https://github.com/sheraztariq22/Food-Recommendation-System-Via-RAG"> 
 <img src="https://img.shields.io/github/stars/sheraztariq/food-recommender?style=social" /> 
 </a> 
-<a href="https://github.com/sheraztariq/food-recommender"> 
+<a href="https://github.com/sheraztariq22/Food-Recommendation-System-Via-RAG"> 
 <img src="https://img.shields.io/badge/View%20Project-9C27B0?style=for-the-badge&logo=google&logoColor=white" /> 
 </a> 
 </p> 
@@ -111,7 +111,7 @@ CRM & Enterprise:         SugarCRM, SAGE CRM, Integration Testing, Quality Assur
 </table>
 
 <p align="center">
-<a href="https://github.com/sheraztariq22?tab=repositories&q=&type=public&language=&sort=updated">
+<a href="https://github.com/sheraztariq22?tab=repositories">
 <img src="https://img.shields.io/badge/🔍 Explore%20All%20Projects-343541?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
