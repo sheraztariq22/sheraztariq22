@@ -53,7 +53,7 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
 🌐 Decentralized infrastructure for transparency<br> 
 👥 Advanced user interaction features<br><br> 
 <a href="https://github.com/sheraztariq22/Community-Automation-Blockchain"> 
-<img src="https://img.shields.io/github/stars/sheraztariq/community-blockchain?style=social" /> 
+<img src="https://img.shields.io/github/stars/sheraztariq22/community-blockchain?style=social" /> 
 </a> 
 <a href="https://github.com/sheraztariq22/Community-Automation-Blockchain"> 
 <img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" /> 
@@ -68,7 +68,7 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
 ⚡ LangChain & LlamaIndex integration<br> 
 💡 Context-aware natural conversations<br><br> 
 <a href="https://github.com/sheraztariq22/Icebreaker-Bot"> 
-<img src="https://img.shields.io/github/stars/sheraztariq/ai-icebreaker?style=social" /> 
+<img src="https://img.shields.io/github/stars/sheraztariq22/ai-icebreaker?style=social" /> 
 </a> 
 <a href="https://github.com/sheraztariq22/Icebreaker-Bot"> 
 <img src="https://img.shields.io/badge/View%20Project-4CAF50?style=for-the-badge&logo=python&logoColor=white" /> 
@@ -85,7 +85,7 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
 ⚡ Real-time face detection & recognition<br> 
 🔬 TensorFlow + Keras + Computer Vision<br><br> 
 <a href="https://github.com/sheraztariq/face-recognition"> 
-<img src="https://img.shields.io/github/stars/sheraztariq/face-recognition?style=social" /> 
+<img src="https://img.shields.io/github/stars/sheraztariq22/face-recognition?style=social" /> 
 </a> 
 <a href="https://github.com/sheraztariq/face-recognition"> 
 <img src="https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
@@ -100,7 +100,7 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
 ✨ Google Gemini API integration<br> 
 🎯 Personalized suggestions system<br><br> 
 <a href="https://github.com/sheraztariq22/Food-Recommendation-System-Via-RAG"> 
-<img src="https://img.shields.io/github/stars/sheraztariq/food-recommender?style=social" /> 
+<img src="https://img.shields.io/github/stars/sheraztariq22/food-recommender?style=social" /> 
 </a> 
 <a href="https://github.com/sheraztariq22/Food-Recommendation-System-Via-RAG"> 
 <img src="https://img.shields.io/badge/View%20Project-9C27B0?style=for-the-badge&logo=google&logoColor=white" /> 
