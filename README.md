@@ -135,7 +135,6 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
 * 💼 **Built scalable enterprise CRM solutions** ensuring high availability
 * 🤖 **Expert in RAG workflow implementation** with LangChain and LlamaIndex
 * ⚡ **Modernized deployment workflows** with Docker, Kubernetes, and Jenkins
-* 🎓 **Strong academic performance** (CGPA 3.5/4.0) at FAST NUCES
 * 🔧 **Proficient in CI/CD** implementation and integration testing
 
 ---
