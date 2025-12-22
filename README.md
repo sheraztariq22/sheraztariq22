@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="/SherazTariqResume.pdf">
+  <a href="https://sheraztariq22.github.io/sheraztariq22/SherazTariqResume.pdf">
     <img src="https://img.shields.io/badge/📄 Download Resume-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Resume" />
   </a>
   <a href="https://sheraztariq.com/">
