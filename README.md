@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Pursuing **B.S. in Software Engineering** at FAST NUCES (CGPA: 3.5/4.0)
+- 🎓 Pursuing **B.S. in Software Engineering** at FAST NUCES (CGPA: 2.41/4.0)
 - 💼 **Full Stack Developer at SAGE TECK** – Building enterprise CRM solutions
 - 🚀 **1+ year of professional experience** in Full-stack Development
 - 🤖 Expert in **AI/ML, RAG, LangChain, and Blockchain Technology**
@@ -30,9 +30,9 @@
 ### 🧰 Tech Stack
 
 ```yaml
-Languages:                Python, JavaScript, SQL, HTML/CSS
+Languages:                Python, JavaScript, SQL, C++, Java
 ML & AI:                  TensorFlow, Keras, Deep Learning, NLP, NumPy
-Generative AI:            LangChain, LlamaIndex, RAG, LLMs, Google Gemini
+Generative AI:            LangChain, LlamaIndex, RAG, LLMs, Google Gemini, LangChain, LangGraph, Multi Agent, CrewAI
 Web Development:          Django, MERN Stack, FastAPI, REST APIs, Streamlit
 DevOps & Cloud:           Docker, Kubernetes, Jenkins, AWS, Azure, CI/CD, Git
 Blockchain:               IBM Blockchain, Smart Contracts, Decentralized Systems
