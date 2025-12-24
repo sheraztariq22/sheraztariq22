@@ -9,7 +9,7 @@
   <a href="https://sheraztariq22.github.io/sheraztariq22/SherazTariqResume.pdf">
     <img src="https://img.shields.io/badge/📄 Download Resume-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Resume" />
   </a>
-  <a href="https://sheraztariq.com/">
+  <a href="https://sheraz-portfolio-psi.vercel.app/">
     <img src="https://img.shields.io/badge/🚀 Visit Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
 </p>
