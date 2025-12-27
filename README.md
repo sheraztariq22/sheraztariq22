@@ -73,23 +73,7 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
 <a href="https://github.com/sheraztariq22/Community-Automation-Blockchain"> 
 <img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" /> 
 </a> 
-</p> 
-</td> 
-<td width="50%"> 
-<h3>💬 AI Icebreaker Bot</h3> 
-<p> 
-🤖 <strong>RAG-based conversational AI assistant</strong><br> 
-🔍 Complete RAG workflow implementation<br> 
-⚡ LangChain & LlamaIndex integration<br> 
-💡 Context-aware natural conversations<br><br> 
-<a href="https://github.com/sheraztariq22/Icebreaker-Bot"> 
-<img src="https://img.shields.io/github/stars/sheraztariq22/Icebreaker-Bot?style=social" /> 
-</a> 
-<a href="https://github.com/sheraztariq22/Icebreaker-Bot"> 
-<img src="https://img.shields.io/badge/View%20Project-4CAF50?style=for-the-badge&logo=python&logoColor=white" /> 
-</a> 
-</p> 
-</td> 
+</p>  
 </tr> 
 <tr> 
 <td width="50%"> 
