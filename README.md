@@ -44,7 +44,22 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
 ### 🏆 Featured Projects
 
 <table> 
-<tr> 
+<tr>
+<td width="50%"> 
+<h3>🔗DocChat Multi Agent System</h3> 
+<p> 
+⛓️ <strong>Multi-Agent Architecture + Hybrid Retrieval System</strong><br> 
+🤖 Validates if documents contain information to answer your question<br> 
+🌐 Analyzes retrieved content and generates initial responses<br> 
+👥 Cross-checks responses against original documents to detect hallucinations<br><br> 
+<a href="https://github.com/sheraztariq22/DocChat-MultiAgent"> 
+<img src="https://img.shields.io/github/stars/sheraztariq22/Community-Automation-Blockchain?style=social" /> 
+</a> 
+<a href="https://github.com/sheraztariq22/DocChat-MultiAgent"> 
+<img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" /> 
+</a> 
+</p> 
+</td>
 <td width="50%"> 
 <h3>🔗 Community Automation System (Blockchain)</h3> 
 <p> 
