@@ -53,7 +53,7 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
 🌐 Analyzes retrieved content and generates initial responses<br> 
 👥 Cross-checks responses against original documents to detect hallucinations<br><br> 
 <a href="https://github.com/sheraztariq22/DocChat-MultiAgent"> 
-<img src="https://img.shields.io/github/stars/sheraztariq22/Community-Automation-Blockchain?style=social" /> 
+<img src="https://img.shields.io/github/stars/sheraztariq22/DocChat-MultiAgent?style=social" /> 
 </a> 
 <a href="https://github.com/sheraztariq22/DocChat-MultiAgent"> 
 <img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" /> 
