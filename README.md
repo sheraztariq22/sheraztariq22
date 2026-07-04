@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sheraz Tariq</h1>
-<h3 align="center">Full-stack Developer & AI/ML Engineer | Enterprise CRM Specialist</h3>
+<h3 align="center">AI/ML Engineer · Generative AI, Agentic AI & RAG · Full Stack AI Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20DevOps%20Builder;Full-stack%20Developer%20at%20SAGE%20TECK;RAG%20%7C%20LangChain%20%7C%20Blockchain%20Expert!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=650&lines=AI%2FML+%7C+GenAI+%7C+Agentic+AI+%7C+RAG+Engineer;Lead+Full+Stack+AI+Engineer+%40+SkilliHire;Building+NextGen+Schooling+%E2%80%94+ngedu.ai;LangGraph+%7C+LangChain+%7C+AWS+Bedrock+%7C+FastAPI" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,101 +12,100 @@
   <a href="https://sheraz-portfolio-psi.vercel.app/">
     <img src="https://img.shields.io/badge/🚀 Visit Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://www.ngedu.ai">
+    <img src="https://img.shields.io/badge/🎓 NextGen Schooling-2E7D32?style=for-the-badge&logoColor=white" alt="NextGen Schooling" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Pursuing **B.S. in Software Engineering** at FAST NUCES 
-- 💼 **Full Stack Developer at SAGE TECK** – Building enterprise CRM solutions
-- 🚀 **1+ year of professional experience** in Full-stack Development
-- 🤖 Expert in **AI/ML, RAG, LangChain, and Blockchain Technology**
-- 🛠️ Currently building **AI-powered applications** and **scalable DevOps systems**
-- 💡 Specialized in **Enterprise CRM (SugarCRM, SuiteCRM)** and **CI/CD pipelines**
+- 🤖 **AI/ML Engineer** specializing in **Generative AI, Agentic (Multi-Agent) Systems, and production RAG pipelines**
+- 🎓 **Lead Full Stack AI Engineer** — architecting **[NextGen Schooling (ngedu.ai)](https://www.ngedu.ai)**, an AI homeschooling platform for the Australian Curriculum, **Year 0 → Year 12**
+- 💼 **Software Engineer @ SAGE TECK** — building enterprise CRM solutions (SugarCRM, SuiteCRM) with GenAI integrations
+- 🧠 I turn LLMs from chat experiments into **scalable, enterprise-grade AI products** — backends *and* the full-stack apps that power them
+- 🛠️ Deep in **LangChain · LangGraph · CrewAI · RAG · AWS Bedrock · FastAPI**
+- 🎯 **B.S. Software Engineering**, FAST NUCES (2021 – 2025)
 
 ---
 
 ### 🧰 Tech Stack
 
 ```yaml
-Languages:                Python, JavaScript, SQL, C++, Java
-ML & AI:                  TensorFlow, Keras, Deep Learning, NLP, NumPy
-Generative AI:            LangChain, LlamaIndex, RAG, LLMs, Google Gemini, LangChain, LangGraph, Multi Agent, CrewAI
-Web Development:          Django, MERN Stack, FastAPI, REST APIs, Streamlit
-DevOps & Cloud:           Docker, Kubernetes, Jenkins, AWS, Azure, CI/CD, Git
-Blockchain:               IBM Blockchain, Smart Contracts, Decentralized Systems
-CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assurance
+Languages:                Python, JavaScript, TypeScript, SQL, C++, Java
+Generative AI & Agents:   LangChain, LangGraph, CrewAI, RAG, Multi-Agent Systems, LLMs (Claude, Gemini)
+AI / ML:                  TensorFlow, Keras, Deep Learning, NLP, Computer Vision, NumPy
+Backend & Web:            FastAPI, Django, React, Node.js (MERN), REST APIs, Streamlit
+Cloud & AWS:              Bedrock, Titan Embeddings, Nova Sonic, Polly, S3, Lambda, Azure
+Data & Vector Search:     Supabase / pgvector, PostgreSQL, Hybrid Search (BM25 + Dense), NoSQL
+DevOps:                   Docker, Kubernetes, Jenkins, CI/CD, Git
+Enterprise CRM:           SugarCRM, SuiteCRM, Stripe, Integration Testing
 ```
 
 ---
 
 ### 🏆 Featured Projects
 
-<table> 
+<table>
 <tr>
-<td width="50%"> 
-<h3>🔗DocChat Multi Agent System</h3> 
-<p> 
-⛓️ <strong>Multi-Agent Architecture + Hybrid Retrieval System</strong><br> 
-🤖 Validates if documents contain information to answer your question<br> 
-🌐 Analyzes retrieved content and generates initial responses<br> 
-👥 Cross-checks responses against original documents to detect hallucinations<br><br> 
-<a href="https://github.com/sheraztariq22/DocChat-MultiAgent"> 
-<img src="https://img.shields.io/github/stars/sheraztariq22/DocChat-MultiAgent?style=social" /> 
-</a> 
-<a href="https://github.com/sheraztariq22/DocChat-MultiAgent"> 
-<img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" /> 
-</a> 
-</p> 
+<td width="50%">
+<h3>🎓 NextGen Schooling — ngedu.ai</h3>
+<p>
+🧠 <strong>AI-powered K–12 homeschooling platform (Australia)</strong><br>
+🤖 Multiple LLM agents: AI tutor, classroom agent, daily coach & parent advisor<br>
+🎙️ Real-time voice tutoring (AWS Nova Sonic + Polly TTS)<br>
+⚡ React + TypeScript + Supabase, 70+ edge functions, Stripe billing<br><br>
+<a href="https://www.ngedu.ai">
+<img src="https://img.shields.io/badge/🌐 Live%20Platform-2E7D32?style=for-the-badge&logoColor=white" />
+</a>
+</p>
 </td>
-<td width="50%"> 
-<h3>🔗 Community Automation System (Blockchain)</h3> 
-<p> 
-⛓️ <strong>Blockchain + AI-powered community platform</strong><br> 
-🤖 AI-driven community insights and automation<br> 
-🌐 Decentralized infrastructure for transparency<br> 
-👥 Advanced user interaction features<br><br> 
-<a href="https://github.com/sheraztariq22/Community-Automation-Blockchain"> 
-<img src="https://img.shields.io/github/stars/sheraztariq22/Community-Automation-Blockchain?style=social" /> 
-</a> 
-<a href="https://github.com/sheraztariq22/Community-Automation-Blockchain"> 
-<img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" /> 
-</a> 
-</p>  
-</tr> 
-<tr> 
-<td width="50%"> 
-<h3>👁️ YouTube Video Summarizer</h3> 
-<p> 
-🧠 <strong>Summarize YouTube Videos & QnA</strong><br> 
-🎯 Using LangChain<br> 
-⚡ Real-time videos summarization<br> 
-🔬 Langchain + Google Gemini + QnA bot<br><br> 
-<a href="https://github.com/sheraztariq22/Youtube-Summarizer"> 
-<img src="https://img.shields.io/github/stars/sheraztariq22/Youtube-Summarizer?style=social" /> 
-</a> 
-<a href="https://github.com/sheraztariq22/Youtube-Summarizer"> 
-<img src="https://img.shields.io/badge/View%20Project-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white" /> 
-</a> 
-</p> 
-</td> 
-<td width="50%"> 
-<h3>🍔 Food Recommendation System</h3> 
-<p> 
-🤖 <strong>AI-powered food recommendations</strong><br> 
-🔍 RAG + Vector similarity search<br> 
-✨ Google Gemini API integration<br> 
-🎯 Personalized suggestions system<br><br> 
-<a href="https://github.com/sheraztariq22/Food-Recommendation-System-Via-RAG"> 
-<img src="https://img.shields.io/github/stars/sheraztariq22/Food-Recommendation-System-Via-RAG?style=social" /> 
-</a> 
-<a href="https://github.com/sheraztariq22/Food-Recommendation-System-Via-RAG"> 
-<img src="https://img.shields.io/badge/View%20Project-9C27B0?style=for-the-badge&logo=google&logoColor=white" /> 
-</a> 
-</p> 
-</td> 
-</tr> 
+<td width="50%">
+<h3>🔎 NextGen RAG Backend</h3>
+<p>
+⚙️ <strong>Production RAG engine — Year 0 to Year 12 content</strong><br>
+📚 Syllabi → Amazon Titan V2 embeddings → Supabase pgvector<br>
+🔀 Hybrid retrieval: BM25 + dense vectors fused via RRF, reranking<br>
+✨ Claude 3.5 Sonnet generates readings, quizzes & slides on demand<br><br>
+<a href="https://www.ngedu.ai">
+<img src="https://img.shields.io/badge/FastAPI%20%2B%20Bedrock-171515?style=for-the-badge&logo=fastapi&logoColor=white" />
+</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>🔗 DocChat — Multi-Agent System</h3>
+<p>
+⛓️ <strong>Multi-Agent Architecture + Hybrid Retrieval</strong><br>
+🤖 Validates whether documents can answer your question<br>
+🌐 Analyzes retrieved content and generates grounded responses<br>
+👥 Cross-checks answers against sources to detect hallucinations<br><br>
+<a href="https://github.com/sheraztariq22/DocChat-MultiAgent">
+<img src="https://img.shields.io/github/stars/sheraztariq22/DocChat-MultiAgent?style=social" />
+</a>
+<a href="https://github.com/sheraztariq22/DocChat-MultiAgent">
+<img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+</td>
+<td width="50%">
+<h3>🔗 Community Automation (Blockchain)</h3>
+<p>
+⛓️ <strong>Blockchain + AI community platform</strong> · Final Year Project<br>
+🤖 AI-driven community insights and automation<br>
+🌐 Decentralized infrastructure for transparency<br>
+👥 Advanced user interaction features<br><br>
+<a href="https://github.com/sheraztariq22/Community-Automation-Blockchain">
+<img src="https://img.shields.io/github/stars/sheraztariq22/Community-Automation-Blockchain?style=social" />
+</a>
+<a href="https://github.com/sheraztariq22/Community-Automation-Blockchain">
+<img src="https://img.shields.io/badge/View%20Project-171515?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+</td>
+</tr>
 </table>
 
 <p align="center">
@@ -119,30 +118,41 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
 
 ### 💼 Professional Experience
 
-**💻 SAGE TECK - Full Stack Developer** *(March 2024 - Present)*
-* Engineered and maintained **critical features** for enterprise CRM platforms **SugarCRM** and **SuiteCRM**
-* Ensured **robust performance** and **high system availability** for production systems
-* Focused on building **scalable backend logic** throughout the software development lifecycle
-* Modernized **deployment workflows** and improved development efficiency through **CI/CD**
-* Led **quality assurance** and **integration testing** processes
+**🧠 SkilliHire — Lead Full Stack AI Engineer** *(Feb 2026 – Present · Remote, Australia)*
+* Architected and lead **NextGen Schooling ([ngedu.ai](https://www.ngedu.ai))**, an AI homeschooling platform for the Australian Curriculum (Year 0 → Year 12)
+* Designed **multiple LLM agents** (AI tutor, classroom agent, daily coach, parent advisor) and **real-time voice tutoring** with AWS Nova Sonic + Polly
+* Built a **production RAG pipeline** — hybrid retrieval (BM25 + dense + RRF), Titan V2 embeddings, pgvector, Claude 3.5 Sonnet generation
+* Delivered the full-stack app (React + TypeScript + Supabase) with **70+ serverless edge functions**, Stripe billing, and role-based portals
+
+**💻 SAGE TECK — Software Engineer** *(June 2025 – Present · Islamabad)*
+* Engineered and maintained critical features for enterprise CRM platforms **SugarCRM** and **SuiteCRM**
+* Built a **LangGraph-based multi-agent assistant ("talkerCRM")** integrating Generative AI into CRM workflows
+* Focused on **scalable backend** development and clean architecture across the SDLC
 
 ---
 
 ### 🏅 Key Achievements
 
-* 🚀 **Successfully led multiple AI and DevOps projects** improving system efficiency
-* 💼 **Built scalable enterprise CRM solutions** ensuring high availability
-* 🤖 **Expert in RAG workflow implementation** with LangChain and LlamaIndex
-* ⚡ **Modernized deployment workflows** with Docker, Kubernetes, and Jenkins
-* 🔧 **Proficient in CI/CD** implementation and integration testing
+* 🚀 **Led architecture of a live AI education platform** ([ngedu.ai](https://www.ngedu.ai)) serving Year 0–12 curriculum
+* 🔀 **Engineered production hybrid RAG** — BM25 + dense retrieval, RRF fusion, reranking & query expansion
+* 🎙️ **Shipped real-time voice AI tutoring** with AWS Nova Sonic streaming and barge-in support
+* 🤖 **Built multi-agent systems** with LangGraph, LangChain & CrewAI
+* ⚡ **Delivered 70+ serverless edge functions** with Stripe billing on a scalable Supabase backend
 
 ---
 
-### 🎓 Education
+### 🎓 Education & Certifications
 
 <p align="center">
 <img src="https://img.shields.io/badge/B.S.%20Software%20Engineering-FAST%20NUCES-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-<img src="https://img.shields.io/badge/Graduation-June%202025-orange?style=for-the-badge&logo=calendar&logoColor=white" />
+<img src="https://img.shields.io/badge/2021%20–%202025-orange?style=for-the-badge&logo=calendar&logoColor=white" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/GenAI%20Engineering%20with%20LLMs-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/Deep%20Learning%20Specialization-0A66C2?style=flat-square" />
+<img src="https://img.shields.io/badge/Machine%20Learning%20Specialization-EF6C00?style=flat-square" />
+<img src="https://img.shields.io/badge/Python%20Data%20Structures-2E7D32?style=flat-square" />
 </p>
 
 ---
@@ -155,7 +165,6 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
   <a href="https://linkedin.com/in/sheraz-tariq-12434a239"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/sherazt17522925"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://www.leetcode.com/sheraztariq22"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://stackoverflow.com/users/sheraz-tariq"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"></a>
   <a href="https://wa.me/923405437523"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Chat" /></a>
 </p>
 
@@ -169,16 +178,16 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
     <tr>
       <!-- GitHub Stats -->
       <td style="width: 49%; height: 330px;">
-        <img 
-          src="https://github-readme-stats.vercel.app/api?username=sheraztariq22&show_icons=true&theme=radical&hide_border=true&rank_icon=github" 
-          alt="Sheraz's GitHub Stats" 
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=sheraztariq22&show_icons=true&theme=radical&hide_border=true&rank_icon=github"
+          alt="Sheraz's GitHub Stats"
           style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;" />
       </td>
       <!-- GitHub Streak -->
       <td style="width: 49%; height: 330px;">
-        <img 
-          src="https://github-readme-streak-stats.herokuapp.com?user=sheraztariq22&theme=radical&hide_border=true" 
-          alt="Sheraz's GitHub Streak" 
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com?user=sheraztariq22&theme=radical&hide_border=true"
+          alt="Sheraz's GitHub Streak"
           style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;" />
       </td>
     </tr>
@@ -201,33 +210,31 @@ CRM & Enterprise:         SugarCRM, SUITE CRM, Integration Testing, Quality Assu
 </details>
 
 <details>
-<summary>🔍 Currently Learning & Building</summary>
+<summary>🔍 Currently Building & Learning</summary>
 
-* 🤖 Advanced RAG Architectures with LangChain and LlamaIndex
-* 🏗️ Scaling Enterprise CRM Systems for High Availability
-* 🔒 Blockchain Smart Contract Development
-* 🌐 Full-Stack AI Applications with Modern Frameworks
-* 📊 MLOps & Production ML System Deployment
-* 🎯 Deep Learning & Computer Vision Applications
-* ⚡ Advanced DevOps with Kubernetes and Jenkins
+* 🎓 Scaling **NextGen Schooling (ngedu.ai)** — AI curriculum generation for Year 0–12
+* 🔀 Advanced **Hybrid RAG** architectures (BM25 + dense + RRF, reranking, query expansion)
+* 🤖 **Agentic AI** with LangGraph, CrewAI & multi-agent orchestration
+* 🎙️ **Real-time voice AI** with AWS Nova Sonic and Bedrock
+* ☁️ **AWS-native AI infrastructure** (Bedrock, Titan, Lambda, S3)
+* 📊 **MLOps & production LLM system** deployment
 
 </details>
 
 <details>
 <summary>💡 Quick Facts</summary>
 
-* 🚀 **1+ year** of professional Full-stack Development experience
-* 🎯 Built **enterprise CRM solutions** with high system availability
-* 🏆 Successfully **led multiple AI and DevOps projects**
-* 🧠 Expert in **RAG, LangChain, and LlamaIndex** implementations
-* ⚡ Specialized in **CI/CD pipelines** and **integration testing**
-* 💼 Strong focus on **scalable backend architecture** and **quality assurance**
-* 🔗 Experience with **Blockchain** and **IBM Blockchain** platforms
+* 🧠 **AI/ML Engineer** focused on GenAI, Agentic AI & RAG
+* 🎓 Lead engineer on a **live AI education platform** ([ngedu.ai](https://www.ngedu.ai))
+* 🔀 Built **production hybrid RAG** serving grade-aligned curriculum content
+* 🤖 Expert in **LangChain, LangGraph & CrewAI** multi-agent systems
+* ☁️ Hands-on with **AWS Bedrock, Titan, Nova Sonic & Polly**
+* 💼 Enterprise experience with **SugarCRM & SuiteCRM** and Stripe billing
 
 </details>
 
 ---
 
 <p align="center">
-  <i>"Creating innovative software solutions that solve real-world problems through AI, automation, and modern development practices"</i>
+  <i>"Turning LLMs from chat experiments into scalable, enterprise-grade AI products."</i>
 </p>

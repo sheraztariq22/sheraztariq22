@@ -1,0 +1,10 @@
+# Resume LaTeX source (kept local; compiled via Overleaf)
+SherazTariqResume.tex
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
